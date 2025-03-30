@@ -50,6 +50,7 @@ Neem ik 1 jaar aan data per minuut gemeten: 25 maart 2024 t/m 24 maart 2025, waa
 Met toenemende batterijcapaciteit zie je dat in de lente+zomer (linker helft van de plot) er telkens vaker de nacht overbrugd wordt (en de batterij dus niet geheel leeg raakt voor de volgende dag begint), in de herfst+winter (rechter helft) is het verschil veel minder aanwezig, in de winter is de bijdrage van een thuisaccu nihil.
 
 Op mijn totale jaarafname van 2132kWh zou de batterij het volgende verschil opleveren (aan minder afname uit het net; bovenste grafiek):
+
 ![simulate_battery_totals.png](results/simulate_battery_totals.png)
 
 Gaan we ervan uit dat de accu zijn levensduur haalt en over die periode bovenstaande bezuiniging per jaar haalt, zodat je per jaar deze hoeveelheden energie niet hoeft af te nemen (en af te rekenen), dan zou dat over de levensduur van de accu (16 jaar) de volgende besparingen opleveren (onderste grafiek)
